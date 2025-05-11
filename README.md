@@ -26,7 +26,7 @@ A passionate learner and builder in AI & ML. I enjoy turning ideas into working 
 ## 📫 Let’s Connect
 
 - 📧 sskzm5780@gmail.com  
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/thexcomrade](https://www.linkedin.com/in/deva-narayanan-3878ab262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- 🔗 [LinkedIn]((www.linkedin.com/in/devanarayanan-v-s-3878ab262))  
 - 💬 Open to internships, project collaborations, or just a chat!
 
 ---
