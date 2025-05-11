@@ -44,8 +44,8 @@ Let's connect and create something remarkable.
 
 *“I’m not just learning AI — I’m building with it.”*
 
-https://github.com/thexcomrade/thexcomrade/blob/output/github-contribution-grid-snake.svg
-https://github.com/thexcomrade/thexcomrade/blob/output/github-contribution-grid-snake.gif
+![GitHub Snake](https://github.com/thexcomrade/thexcomrade/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
