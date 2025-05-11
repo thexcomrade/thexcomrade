@@ -4,8 +4,8 @@
 
 📍 Kollam, India | 🎓 BTech AI & ML @ Mangalam College of Engineering  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devanarayanan-v-s-3878ab262)
-       [![Mail](https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=flat&logo=gmail)](mailto:sskzm5780@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devanarayanan-v-s-3878ab262)&nbsp;&nbsp;&nbsp;
+[![Mail](https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=flat&logo=gmail)](mailto:sskzm5780@gmail.com)
 
 ---
 
