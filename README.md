@@ -43,7 +43,6 @@ Let's connect and create something remarkable.
 ---
 
 *“I’m not just learning AI — I’m building with it.”*
-[platane.github.io/snk](https://platane.github.io/snk)
 
 
 
