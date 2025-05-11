@@ -26,7 +26,7 @@ A passionate learner and builder in AI & ML. I enjoy turning ideas into working 
 ## 📫 Let’s Connect
 
 - 📧 sskzm5780@gmail.com  
-- 🔗 LinkedIn : www.linkedin.com/in/devanarayanan-v-s-3878ab262
+- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devanarayanan-v-s-3878ab262)  
 - 💬 Open to internships, project collaborations, or just a chat!
 
 ---
