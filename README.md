@@ -27,7 +27,7 @@ A passionate learner and builder in AI & ML. I enjoy turning ideas into working 
 
 ## 📫 Let’s Connect
 
-- [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/thexcomrade) 
+- [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thexcomrade/?igsh=OGk4c2dnZ3ptbWNi)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devanarayanan-v-s-3878ab262)  
 - 💬 I'm open to internships, research collaborations, and impactful AI/ML roles.  
 Let's connect and create something remarkable.
