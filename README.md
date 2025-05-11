@@ -3,7 +3,8 @@
 **AI & ML Enthusiast | Aspiring Data Scientist | Software Developer**
 
 📍 Kollam, India | 🎓 BTech AI & ML @ Mangalam College of Engineering  
-📧 sskzm5780@gmail.com | 💻 [github.com/thexcomrade](https://github.com/thexcomrade)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devanarayanan-v-s-3878ab262)
+[![Mail](https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=flat&logo=gmail)](mailto:sskzm5780@gmail.com)
 
 ---
 
@@ -25,9 +26,10 @@ A passionate learner and builder in AI & ML. I enjoy turning ideas into working 
 
 ## 📫 Let’s Connect
 
-- 📧 sskzm5780@gmail.com  
+- 📧 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/thexcomrade) 
 - 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devanarayanan-v-s-3878ab262)  
-- 💬 Open to internships, project collaborations, or just a chat!
+- 💬 I'm open to internships, research collaborations, and impactful AI/ML roles.  
+Let's connect and create something remarkable.
 
 ---
 
