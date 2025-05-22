@@ -1,4 +1,5 @@
-# thexcomrade
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=THEXCOMRADE;STUDENT)](https://git.io/typing-svg)
+
 
 **AI & ML Enthusiast | Aspiring Data Scientist | Software Developer**
 
