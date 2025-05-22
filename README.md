@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=THEXCOMRADE;STUDENT&font=Fira+Code)](https://git.io/typing-svg)
-
 **AI & ML Enthusiast | Aspiring Data Scientist | Software Developer**
 
 📍 Kollam, India | 🎓 BTech AI & ML @ Mangalam College of Engineering  
