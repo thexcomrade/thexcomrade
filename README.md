@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=THEXCOMRADE;AI+Engineer+in+the+Making;Tech+Explorer+%7C+Problem+Solver&font=Fira+Code&center=true&width=500)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=THEXCOMRADE;AI+Engineer+in+the+Making;Tech+Explorer+%7C+Problem+Solver&font=Fira+Code&width=500)](https://git.io/typing-svg)
 
 # 👋 Hi, I'm Deva!!
 
