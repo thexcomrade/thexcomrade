@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=THEXCOMRADE;AI+%26+ML+Graduate;AI+for+Healthcare+%7C+Data+Science;Building+Intelligent+Solutions&font=Fira+Code&width=1000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=THEXCOMRADE;AI+%26+ML+Graduate;AI+for+Healthcare+%7C+AI+ML+Engineer;Building+Intelligent+Solutions&font=Fira+Code&width=1000)](https://git.io/typing-svg)
 
 **Aspiring AIML Enthusiast |  Software Developer**
 
