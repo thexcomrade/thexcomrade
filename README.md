@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=THEXCOMRADE;AI+Engineer+in+the+Making;Tech+Explorer+%7C+Problem+Solver&font=Fira+Code&width=1000)](https://git.io/typing-svg)
 # 👋 Hi, I'm Deva!!
 
-**AI & ML Enthusiast | Aspiring Data Scientist | Software Developer**
+**Aspiring AIML Enthusiast |  Software Developer**
 
-📍 Kollam, India | 🎓 BTech AI & ML @ Mangalam College of Engineering
+📍 Kollam, India | 🎓 BTech AIML | MLMCE 26
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devanarayanan-v-s-3878ab262)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=flat&logo=gmail)](mailto:sskzm5780@gmail.com)
