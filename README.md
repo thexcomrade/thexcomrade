@@ -1,65 +1,105 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=THEXCOMRADE;AI+%26+ML+Graduate;AI+for+Healthcare+%7C+AI+ML+Engineer;Building+Intelligent+Solutions&font=Fira+Code&width=1000)](https://git.io/typing-svg)
+```md
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=THEXCOMRADE;AI+%26+ML+Graduate;AI+for+Healthcare+%7C+AI%2FML+Engineer;Building+Intelligent+Solutions&font=Fira+Code&width=1000)](https://git.io/typing-svg)
 
-**Aspiring AIML Enthusiast |  Software Developer**
+# 👋 Hi, I'm Devanarayanan V S
 
-📍 Kollam, India | 🎓 BTech AIML | MLMCE 26
+**AI & ML Graduate | Aspiring AI/ML Engineer | Passionate about AI for Healthcare**
+
+📍 Kerala, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devanarayanan-v-s-3878ab262)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=flat&logo=gmail)](mailto:sskzm5780@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thexcomrade/?igsh=OGk4c2dnZ3ptbWNi)
+[![GitHub](https://img.shields.io/badge/GitHub-thexcomrade-black?style=flat&logo=github)](https://github.com/thexcomrade)
 
 ---
 
-## 🚀 Who Am I?
+## 🚀 About Me
 
-An AI explorer passionate about solving real-world problems with data, code, and creativity.  
-I'm driven by curiosity and powered by Python — building intelligent systems that matter.
+I'm an AI & Machine Learning graduate passionate about building intelligent, data-driven solutions that solve real-world problems. My interests lie in AI for Healthcare, Machine Learning, Data Analytics, Computer Vision, and Generative AI.
 
-💬 Currently working on:
-- `Student Performance Predictor` — ML-powered dashboard for academic analytics  
-- `Couple’s Journal` — Personalized romantic web app with real-time interactions  
-
-I'm open to internships, collaborative projects, and research opportunities that push the boundaries of AI.
+I'm always eager to learn emerging technologies, collaborate on innovative projects, and contribute to impactful AI applications.
 
 ---
 
-## 🧠 What I Know
+## 💡 Current Focus
 
-### 💻 Languages & Frameworks
-- Python | C++ | JavaScript
-- Flask | TensorFlow | PyTorch | scikit-learn
-
-### 📊 Data & ML
-- Pandas, NumPy, Matplotlib, Seaborn  
-- NLP, Computer Vision, Predictive Modeling
-
-### 🛠️ Tools & Platforms
-- Git & GitHub | Jupyter | VSCode  
-- Replit | GitHub Projects | GitHub Actions
+- 🤖 AI & Machine Learning
+- 🏥 AI for Healthcare
+- 📊 Data Analytics & Predictive Modeling
+- 👁️ Computer Vision
+- 🧠 Generative AI & LLM Applications
 
 ---
 
+## 🛠️ Technical Skills
 
-## 📈 GitHub Stats
+### Programming Languages
+- Python
+- SQL
+- JavaScript
+- HTML
+- CSS
 
-![thexcomrade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thexcomrade&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+### AI / Machine Learning
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Data Analysis
+- Predictive Modeling
+
+### Libraries & Frameworks
+- Pandas
+- NumPy
+- Scikit-learn
+- PyTorch
+- OpenCV
+- Matplotlib
+
+### Tools
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
+
+### Database
+- MySQL
+
+---
+
+## 🚀 Featured Projects
+
+### 🥗 NutriPlan AI
+An AI-powered healthcare application that generates personalized nutrition recommendations based on user health profiles, dietary preferences, and wellness goals.
+
+### 🧠 Student Performance Predictor
+A machine learning project that predicts student performance using historical academic data and visual analytics.
+
+### ❤️ Couple's Journal
+A personalized web application designed to enhance relationship experiences through interactive features and real-time functionality.
+
+---
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thexcomrade&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thexcomrade&theme=tokyonight&layout=compact&hide_border=true)
 
 ---
 
-## 📌 Let's Collaborate
+## 🤝 Let's Connect
 
-I'm passionate about building tools and solutions in:
-- 🎯 Education Tech
-- 💼 AI for productivity
-- 🧠 Data-driven decision systems
+I'm actively looking for opportunities in:
 
-If you’re working on something exciting or looking for a proactive contributor — let’s connect!
+- AI/ML Engineering
+- Data Analytics
+- Software Development
+- AI for Healthcare
+- Research & Open Source Collaboration
+
+Feel free to connect if you'd like to collaborate on innovative AI projects or discuss technology.
 
 ---
 
-> *“I’m not just learning AI — I’m building with it.”*
-
----
-
+> *"Building AI solutions that create meaningful real-world impact."*
+```
