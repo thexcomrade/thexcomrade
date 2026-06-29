@@ -3,7 +3,7 @@
 **AI & ML Graduate | Aspiring AI/ML Engineer | Passionate about AI for Healthcare**
 
 📍 Kerala, India
-🎓 B.Tech in Artificial Intelligence & Machine Learning
+🎓 B.Tech in AI & ML
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devanarayanan-v-s-3878ab262)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=flat&logo=gmail)](mailto:sskzm5780@gmail.com)
