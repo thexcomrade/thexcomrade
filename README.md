@@ -175,13 +175,6 @@ class Devanarayanan:
 
 </div>
 
-<!-- ───────────────────────── ACTIVITY GRAPH ───────────────────────── -->
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thexcomrade&theme=tokyo-night&hide_border=true&area=true&radius=16&custom_title=Contribution%20Activity" alt="Activity graph" />
-</div>
-
 <!-- ───────────────────────── SNAKE ───────────────────────── -->
 ### Contribution Graph
 
