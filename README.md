@@ -63,11 +63,6 @@ class Devanarayanan:
 | **Backend** | FastAPI · Flask · REST APIs · SQLAlchemy |
 | **Robotics** | Arduino · Ultrasonic Sensors · Bluetooth · Motor Control |
 | **Tools** | Git · GitHub · Jupyter · Google Colab · VS Code |
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,fastapi,flask,pytorch,tensorflow,sklearn,opencv,numpy,pandas,arduino,git,github,vscode&perline=10" alt="Skill icons" />
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
