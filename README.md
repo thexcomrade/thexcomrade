@@ -172,7 +172,6 @@ class Devanarayanan:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=thexcomrade&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thexcomrade&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=thexcomrade&theme=tokyonight&hide_border=true" alt="GitHub streak" />
@@ -189,7 +188,7 @@ class Devanarayanan:
 </div>
 
 <!-- ───────────────────────── SNAKE ───────────────────────── -->
-### 🐍 Contribution Snake
+### Contribution Graph
 
 <div align="center">
   <picture>
