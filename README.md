@@ -167,11 +167,7 @@ class Devanarayanan:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thexcomrade&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com?user=thexcomrade&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=thexcomrade&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
 
 </div>
 
