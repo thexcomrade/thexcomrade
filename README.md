@@ -3,9 +3,6 @@
 
 <img src="assets/profile-header.gif" width="100%" alt="Animated developer profile header" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&height=50&lines=Hi%2C+I'm+Devanarayanan+%F0%9F%91%8B;AI+%26+ML+Graduate+%7C+B.Tech+AI+%26+ML;Building+RAG+%2B+Full-Stack+AI+Apps;Computer+Vision+%7C+Robotics+%7C+Automation;Passionate+about+AI+for+Healthcare" alt="Typing animation" />
-</a>
 
 <br/>
 
