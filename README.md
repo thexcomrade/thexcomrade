@@ -10,8 +10,6 @@
 <a href="https://www.instagram.com/thexcomrade"><img src="https://img.shields.io/badge/Instagram-@thexcomrade-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <img src="https://komarev.com/ghpvc/?username=thexcomrade&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<br/><br/>
-
 📍 Kerala, India &nbsp;•&nbsp; 🎓 B.Tech in AI &amp; ML (Minor: Robotics &amp; Automation) &nbsp;•&nbsp; 💼 Software Engineer Intern @ Stackup Learning
 
 </div>
