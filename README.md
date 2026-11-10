@@ -26,31 +26,23 @@
   </p>
 
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://github.com/thexcomrade">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://www.linkedin.com/in/devanarayanan-vs/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="mailto:sskzm5780@gmail.com">
-        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://komarev.com/ghpvc/?username=thexcomrade&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views"/>
-    </td>
-  </tr>
-</table>
 
+<br/>
 
-  <br/><br/>
+<div align="center">
+  <a href="https://github.com/thexcomrade">
+    <img height="35" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/devanarayanan-vs/">
+    <img height="35" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:sskzm5780@gmail.com">
+    <img height="35" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img height="35" src="https://komarev.com/ghpvc/?username=thexcomrade&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
+
+<br/>
 
   📍 Kerala, India &nbsp; | &nbsp; 🎓 Artificial Intelligence & Machine Learning
 
