@@ -324,46 +324,6 @@ A robotics project combining Bluetooth-based manual control with autonomous obst
 </div>
 
 ---
-
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <img
-    src="https://www.gitskins.com/api/section/stats?username=thexcomrade&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93283856%3Fu%3D702e336f87f5f6fc8f464e28791bfd40313f287c%26v%3D4"
-    width="100%"
-    alt="GitHub statistics"
-  />
-
-  <br/><br/>
-
-  <img
-    src="https://streak-stats.demolab.com?user=thexcomrade&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-
-</div>
-
----
-
-<!-- ===================== PROJECT LANDMARKS ===================== -->
-
-## 🏛️ Project Landmarks
-
-<div align="center">
-
-  <img
-    src="https://www.gitskins.com/api/section/projects?username=thexcomrade&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93283856%3Fu%3D702e336f87f5f6fc8f464e28791bfd40313f287c%26v%3D4"
-    width="100%"
-    alt="GitHub project landmarks"
-  />
-
-</div>
-
----
-
 <!-- ===================== CONNECT ===================== -->
 
 ## 🤝 Let's Connect
@@ -396,14 +356,6 @@ I'm particularly interested in opportunities and collaborations involving:
   <br/><br/>
 
   <i>"Building intelligent solutions, one project at a time."</i>
-
-  <br/><br/>
-
-  <img
-    src="https://www.gitskins.com/api/section/social?username=thexcomrade&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93283856%3Fu%3D702e336f87f5f6fc8f464e28791bfd40313f287c%26v%3D4"
-    width="100%"
-    alt="GitHub social profile"
-  />
 
   <br/><br/>
 
