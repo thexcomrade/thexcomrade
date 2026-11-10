@@ -1,113 +1,412 @@
+
+<!-- ==========================================================
+     DEVANARAYANAN V S | GITHUB PROFILE README
+     Design: Professional | Aurora | Building Contributions
+     GitHub: thexcomrade
+=========================================================== -->
+
+<!-- ===================== HERO ===================== -->
+
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · thexcomrade</sub></p>
-<h1>DEVANARAYAN VS</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>BTech AI &amp; ML Graduate | Aspiring AIML Engineer | Python enthusiast | Building AI-driven solutions</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Kazhakootam · Building at Stackmod Innovations</sub></p>
-<p><a href="https://github.com/thexcomrade">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/93283856?u=702e336f87f5f6fc8f464e28791bfd40313f287c&amp;v=4" width="180" alt="DEVANARAYAN VS GitHub avatar" />
-</td>
-</tr>
-</table>
+  <img
+    src="https://www.gitskins.com/api/section/hero?username=thexcomrade&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93283856%3Fu%3D702e336f87f5f6fc8f464e28791bfd40313f287c%26v%3D4"
+    width="100%"
+    alt="Devnarayanan GitHub profile header"
+  />
+
+  <br/><br/>
+
+  <h2>DEVANARAYANAN V S</h2>
+
+  <h3>AI/ML Engineer | Python Developer | Generative AI | Backend Development</h3>
+
+  <p>
+    Building intelligent applications through code, experimentation and continuous learning.
+  </p>
+
+  <br/>
+
+  <a href="https://github.com/thexcomrade">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/devanarayanan-vs/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:sskzm5780@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <br/><br/>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=thexcomrade&style=flat-square&color=7AA2F7&label=PROFILE+VIEWS"
+    alt="Profile views"
+  />
+
+  <br/><br/>
+
+  📍 Kerala, India &nbsp; | &nbsp; 🎓 Artificial Intelligence & Machine Learning
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+<br/>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Jupyter Notebook · TypeScript · Python</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>12 repositories · 2 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>90 contributions · 23 active days</p></td>
-</tr>
-</table>
+---
 
-<p><sub>BTech AI &amp; ML Graduate | Aspiring AIML Engineer | Python enthusiast | Building AI-driven solutions</sub></p>
+<!-- ===================== ABOUT ME ===================== -->
 
-<h2>Proof at a glance</h2>
+## 👨‍💻 About Me
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>12</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>2</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>90</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>6</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+I'm a B.Tech graduate in Artificial Intelligence and Machine Learning, with a minor specialization in Robotics and Automation.
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=thexcomrade&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93283856%3Fu%3D702e336f87f5f6fc8f464e28791bfd40313f287c%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=thexcomrade&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93283856%3Fu%3D702e336f87f5f6fc8f464e28791bfd40313f287c%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="DEVANARAYAN VS GitHub proof metrics" />
-</picture>
+My interests lie in building practical applications that combine artificial intelligence, backend engineering and intelligent automation.
+
+I enjoy exploring new technologies, understanding how systems work, and turning ideas into functional software.
+
+```python
+class Devanarayanan:
+
+    name = "Devanarayanan V S"
+    role = "AI/ML Engineer & Software Developer"
+    location = "Kerala, India"
+
+    education = {
+        "degree": "B.Tech - Artificial Intelligence & Machine Learning",
+        "specialization": "Robotics & Automation"
+    }
+
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Generative AI & LLMs",
+        "Retrieval-Augmented Generation",
+        "Computer Vision",
+        "Backend Development",
+        "Healthcare AI",
+        "Robotics & Automation"
+    ]
+
+    currently_learning = [
+        "Backend Engineering",
+        "LLM Integration",
+        "Scalable AI Applications"
+    ]
+
+    philosophy = "Learn. Build. Experiment. Improve."
+```
+
+---
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+## 🎯 Current Focus
+
+| Area | Focus |
+|:---|:---|
+| Artificial Intelligence | Machine Learning and Deep Learning |
+| Generative AI | LLMs, RAG and AI integrations |
+| Computer Vision | Image processing and deepfake detection |
+| Backend Engineering | Python, FastAPI and REST APIs |
+| Software Development | Building practical applications |
+| Robotics | Automation and embedded systems |
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,mysql" alt="Programming languages"/>
+
+<br/><br/>
+
+### AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="AI and machine learning technologies"/>
+
+<br/><br/>
+
+### Frameworks & Development
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,react" alt="Development frameworks"/>
+
+<br/><br/>
+
+### Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman,docker" alt="Development tools"/>
+
+</div>
+
+### Technical Skills
+
+| Category | Technologies |
+|:---|:---|
+| Programming | Python, JavaScript, SQL |
+| Machine Learning | PyTorch, Scikit-learn, TensorFlow |
+| Computer Vision | OpenCV |
+| Data Processing | Pandas, Matplotlib |
+| Generative AI | Gemini, OpenAI integration, RAG |
+| Backend | FastAPI, Flask, REST APIs |
+| Frontend | Next.js, React, HTML, CSS, TypeScript |
+| Database | MySQL |
+| Tools | Git, GitHub, Google Colab, Jupyter Notebook |
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+## 🚀 Featured Projects
+
+### ✈️ Trip Geni
+**AI-Powered Travel Planning Platform**
+
+An AI-powered travel planning application designed to generate personalised itineraries and provide contextual travel recommendations.
+
+- Personalised travel itinerary generation.
+- Retrieval-Augmented Generation (RAG) for contextual recommendations.
+- Budget-aware travel planning.
+- Gemini Multimodal AI integration.
+- Backend development using Python and FastAPI.
+
+**Technologies:** Python, FastAPI, Next.js, TypeScript, Gemini AI, RAG.
+
+<p>
+  <a href="https://tripgenius-kohl.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-22C55E?style=for-the-badge" alt="Trip Geni live demo"/>
+  </a>
 </p>
 
-<h2>Selected work</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=thexcomrade&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93283856%3Fu%3D702e336f87f5f6fc8f464e28791bfd40313f287c%26v%3D4&repos=thexcomrade%2FDEEP-FAKE-FACE-DETECTION&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=thexcomrade&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93283856%3Fu%3D702e336f87f5f6fc8f464e28791bfd40313f287c%26v%3D4&repos=thexcomrade%2FDEEP-FAKE-FACE-DETECTION&v=recruiter-projects-1&mode=dark" width="100%" alt="DEVANARAYAN VS selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/thexcomrade/DEEP-FAKE-FACE-DETECTION">DEEP-FAKE-FACE-DETECTION</a></h3>
-<p>A Flask-based web app that detects deepfake images using classical image processing and an optional SVM model. Users can upload images, get prediction</p>
-<p><sub>Python · ⭐ 1 · 🍴 2</sub></p>
-<p><a href="https://github.com/thexcomrade/DEEP-FAKE-FACE-DETECTION">Read the repository →</a></p>
-</td>
-</tr>
-</table>
+### 🎭 Deepfake Face Detection
+**Machine Learning-Based Image Authenticity Detection**
 
-<table width="100%">
-<tr>
+A web-based application focused on identifying manipulated facial images using machine learning techniques.
 
-</tr>
-</table>
+- Image processing using OpenCV.
+- Machine learning classification using Scikit-learn.
+- Real and manipulated face classification.
+- Web application for model interaction.
 
-<h2>Technical toolkit</h2>
+**Technologies:** Python, Flask, Scikit-learn, OpenCV.
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=thexcomrade&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93283856%3Fu%3D702e336f87f5f6fc8f464e28791bfd40313f287c%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=thexcomrade&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93283856%3Fu%3D702e336f87f5f6fc8f464e28791bfd40313f287c%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="DEVANARAYAN VS technology stack" />
-</picture>
+<p>
+  <a href="https://deepfakefacedetection.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-22C55E?style=for-the-badge" alt="Deepfake detection demo"/>
+  </a>
 </p>
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>81% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>8% of public code</sub></td>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>6% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>2% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>1% of public code</sub></td>
-</tr>
-</table>
+---
 
-<h2>Consistency signal</h2>
+### 🎬 Audio-Visual Deepfake Detection
+**AI-Based Multimedia Authenticity Analysis**
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=thexcomrade&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93283856%3Fu%3D702e336f87f5f6fc8f464e28791bfd40313f287c%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=thexcomrade&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93283856%3Fu%3D702e336f87f5f6fc8f464e28791bfd40313f287c%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="DEVANARAYAN VS contribution activity" />
-</picture>
-</p>
+An academic project exploring the detection of manipulated media using audio and visual information.
 
-<hr />
+- CNN-based visual feature extraction.
+- Audio analysis and feature processing.
+- Exploration of Transformer-based sequence modelling.
+- Audio-visual information analysis.
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/thexcomrade">GitHub</a></td>
-</tr>
-</table>
+**Technologies:** Python, PyTorch, OpenCV, Librosa, Transformer Models.
 
-<p align="center"><sub>DEVANARAYAN VS · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+---
+
+### 🏥 MediBridge AI
+**AI-Powered Healthcare Records Platform**
+
+A healthcare technology project focused on organising and accessing patient medical records through a unified platform.
+
+- Backend architecture and API development.
+- Exploration of medical document processing.
+- Structured patient information management.
+- Healthcare-focused AI integration.
+
+**Technologies:** Python, REST APIs, AI, Backend Development.
+
+---
+
+### 🥗 NutriPlan AI
+**Personalised AI Nutrition Platform**
+
+An AI-powered nutrition application concept designed to support personalised meal planning.
+
+- Personalised nutrition recommendations.
+- Dietary preference and restriction handling.
+- Nutritional goal-based planning.
+- Healthcare-oriented AI features.
+
+**Technologies:** Flutter, Python, FastAPI, Firebase, Machine Learning.
+
+---
+
+### 🤖 Bluetooth Obstacle-Avoidance Robot
+**Arduino-Based Robotics Project**
+
+A robotics project combining Bluetooth-based manual control with autonomous obstacle detection and avoidance.
+
+- Bluetooth-controlled movement.
+- Ultrasonic obstacle detection.
+- Servo-based sensor scanning.
+- Motor control and autonomous navigation.
+
+**Technologies:** Arduino, C++, Bluetooth, Ultrasonic Sensors, Servo Motors.
+
+---
+
+<div align="center">
+
+  <a href="https://github.com/thexcomrade?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+  </a>
+
+</div>
+
+---
+
+<!-- ===================== EXPERIENCE ===================== -->
+
+## 💼 Experience & Professional Development
+
+### Software Engineer Intern — Stackup Learning
+
+- Working on software development and backend-related tasks.
+- Exposure to Python, FastAPI, Next.js and TypeScript.
+- Worked on OpenAI integration with a Tourism RAG pipeline.
+
+### Robotics & Drone Development Internship — Genzee Technologies
+
+- Internship focused on robotics and drone development.
+
+### Robotics Internship — TechMaghi
+
+- Exposure to robotics technologies and practical development.
+
+### Self-Driving Electric Vehicle Workshop
+
+- Participated in a workshop focused on autonomous electric vehicle concepts.
+
+### NCC — 16 Kerala Battalion
+
+**C Certificate | B Grade**
+
+- Developed discipline, teamwork and leadership through NCC activities.
+
+---
+
+<!-- ===================== CONTRIBUTION CITY ===================== -->
+
+## 🏙️ My GitHub Contribution City
+
+<div align="center">
+
+  <img
+    src="https://www.gitskins.com/api/section/city?username=thexcomrade&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93283856%3Fu%3D702e336f87f5f6fc8f464e28791bfd40313f287c%26v%3D4"
+    width="100%"
+    alt="GitHub contribution city - building contribution graph"
+  />
+
+  <br/><br/>
+
+  <sub>
+    Every building represents a day of contributions.
+    Taller buildings indicate higher contribution activity.
+  </sub>
+
+</div>
+
+---
+
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img
+    src="https://www.gitskins.com/api/section/stats?username=thexcomrade&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93283856%3Fu%3D702e336f87f5f6fc8f464e28791bfd40313f287c%26v%3D4"
+    width="100%"
+    alt="GitHub statistics"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://streak-stats.demolab.com?user=thexcomrade&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+
+</div>
+
+---
+
+<!-- ===================== PROJECT LANDMARKS ===================== -->
+
+## 🏛️ Project Landmarks
+
+<div align="center">
+
+  <img
+    src="https://www.gitskins.com/api/section/projects?username=thexcomrade&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93283856%3Fu%3D702e336f87f5f6fc8f464e28791bfd40313f287c%26v%3D4"
+    width="100%"
+    alt="GitHub project landmarks"
+  />
+
+</div>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, engineers and technology enthusiasts.
+
+I'm particularly interested in opportunities and collaborations involving:
+
+- Artificial Intelligence and Machine Learning
+- Generative AI and LLM Applications
+- Backend Development
+- Computer Vision and Deep Learning
+- Healthcare AI
+- Robotics and Automation
+
+<div align="center">
+
+  <a href="mailto:sskzm5780@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/devanarayanan-vs/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/thexcomrade">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <br/><br/>
+
+  <i>"Building intelligent solutions, one project at a time."</i>
+
+  <br/><br/>
+
+  <img
+    src="https://www.gitskins.com/api/section/social?username=thexcomrade&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93283856%3Fu%3D702e336f87f5f6fc8f464e28791bfd40313f287c%26v%3D4"
+    width="100%"
+    alt="GitHub social profile"
+  />
+
+  <br/><br/>
+
+  <sub>© Devnarayanan V S · Built with curiosity and code.</sub>
+
+</div>
