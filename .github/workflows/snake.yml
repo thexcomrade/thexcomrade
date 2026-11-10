@@ -1,33 +1,81 @@
-name: Generate Snake Animation
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"   # refreshes every 12 hours
-  workflow_dispatch:          # lets you run it manually from the Actions tab
-  push:
-    branches:
-      - main
+<!-- ───────────────────────── CONTRIBUTION CITY ───────────────────────── -->
 
-permissions:
-  contents: write
+## 🏙️ My GitHub Contribution City
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate snake SVGs from the contribution graph
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+<div align="center">
 
-      - name: Push SVGs to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  <img
+    src="https://www.gitskins.com/api/section/city?username=thexcomrade&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93283856%3Fu%3D702e336f87f5f6fc8f464e28791bfd40313f287c%26v%3D4"
+    width="100%"
+    alt="GitHub contribution city showing daily contributions"
+  />
+
+  <br/>
+
+  <sub>Every building represents a day; taller buildings indicate more contributions.</sub>
+
+</div>
+
+<br/>
+
+<!-- ───────────────────────── GITHUB ANALYTICS ───────────────────────── -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img
+    src="https://www.gitskins.com/api/section/stats?username=thexcomrade&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93283856%3Fu%3D702e336f87f5f6fc8f464e28791bfd40313f287c%26v%3D4"
+    width="100%"
+    alt="GitHub contribution statistics"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://streak-stats.demolab.com?user=thexcomrade&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+
+</div>
+
+<br/>
+
+<!-- ───────────────────────── PROJECT LANDMARKS ───────────────────────── -->
+
+## 🏛️ Project Landmarks
+
+<div align="center">
+
+  <img
+    src="https://www.gitskins.com/api/section/projects?username=thexcomrade&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93283856%3Fu%3D702e336f87f5f6fc8f464e28791bfd40313f287c%26v%3D4"
+    width="100%"
+    alt="GitHub project landmarks"
+  />
+
+</div>
+
+<br/>
+
+<!-- ───────────────────────── SOCIAL PROFILE ───────────────────────── -->
+
+## 🌐 Find Me Online
+
+<div align="center">
+
+  <img
+    src="https://www.gitskins.com/api/section/social?username=thexcomrade&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93283856%3Fu%3D702e336f87f5f6fc8f464e28791bfd40313f287c%26v%3D4"
+    width="100%"
+    alt="GitHub social profile"
+  />
+
+  <br/><br/>
+
+  <a href="https://github.com/thexcomrade">GitHub Profile</a>
+
+  <br/>
+
+  <sub>DEVANARAYAN VS · Contribution city generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
+
+</div>
