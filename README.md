@@ -25,26 +25,30 @@
     Building intelligent applications through code, experimentation and continuous learning.
   </p>
 
-  <br/>
 
-  <a href="https://github.com/thexcomrade">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/thexcomrade">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.linkedin.com/in/devanarayanan-vs/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="mailto:sskzm5780@gmail.com">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://komarev.com/ghpvc/?username=thexcomrade&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views"/>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://www.linkedin.com/in/devanarayanan-vs/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:sskzm5780@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-  <br/><br/>
-
-  <img
-    src="https://komarev.com/ghpvc/?username=thexcomrade&style=flat-square&color=7AA2F7&label=PROFILE+VIEWS"
-    alt="Profile views"
-  />
 
   <br/><br/>
 
